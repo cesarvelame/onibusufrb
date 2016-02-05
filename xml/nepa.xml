@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <horario>
+        <hora>07:30</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+    <horario>
+        <hora>07:31</hora>
+        <tipo>Micro-Ônibus A; Micro-Ônibus B</tipo>
+    </horario>
+    <horario>
+        <hora>07:55</hora>
+        <tipo>Micro-Ônibus A; Micro-Ônibus B</tipo>
+    </horario>
+    <horario>
+        <hora>08:19</hora>
+        <tipo>Micro-Ônibus A; Micro-Ônibus B</tipo>
+    </horario>
+    <horario>
+        <hora>11:30</hora>
+        <tipo>Ônibus; Micro-Ônibus A</tipo>
+    </horario>
+    <horario>
+        <hora>11:40</hora>
+        <tipo>Micro-Ônibus B</tipo>
+    </horario>
+	<horario>
+        <hora>13:30</hora>
+        <tipo>Ônibus; Micro-Ônibus A; Micro-Ônibus B</tipo>
+    </horario>
+	<horario>
+        <hora>13:54</hora>
+        <tipo>Micro-Ônibus A; Micro-Ônibus B</tipo>
+    </horario>
+	<horario>
+        <hora>14:17</hora>
+        <tipo>Micro-Ônibus A</tipo>
+    </horario>
+		<horario>
+        <hora>14:18</hora>
+        <tipo>Micro-Ônibus B</tipo>
+    </horario>
+	<horario>
+        <hora>15:45</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+	<horario>
+        <hora>16:09</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+	<horario>
+        <hora>17:15</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+	<horario>
+        <hora>18:15</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+	<horario>
+        <hora>20:30</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+	<horario>
+        <hora>21:30</hora>
+        <tipo>Ônibus</tipo>
+    </horario>
+</Root>
